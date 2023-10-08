@@ -1,0 +1,41 @@
+h1 {
+  font-size: 40px;
+  font-family: 'Lora', serif;
+  color: #101828;
+}
+
+img {
+  width: 700px;
+  border-radius: 5px;
+}
+
+p {
+  font-size: 20px;
+  font-family: 'Lora', serif;
+  color: #101828;
+  line-height: 30px;
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+span {
+  color: red;
+}
+
+a {
+  display: block;
+  text-decoration: none;
+  color: white;
+  background-color: #101828;
+  font-size: 20px;
+  font-family: 'Lora', serif;
+  height: 35px;
+  width: 150px;
+  line-height: 35px;
+  text-align: center;
+  border-radius: 20px;
+
+
+
+}
